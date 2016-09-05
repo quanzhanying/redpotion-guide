@@ -10,7 +10,9 @@
 ![](https://cdn.filepicker.io/api/file/psnyJGyjRyruxfjDo4KQ)
 
 
-# Step 1 :
+# 步驟：
+
+## Step 1 :
 
 修改 Gemfile
 
@@ -24,7 +26,7 @@ gem "ProMotion-XLForm"
 * bundle install
 * rake pod:install
 
-# Step 2 :
+## Step 2 :
 
 修改 `app/screens/home_screen.rb`
 

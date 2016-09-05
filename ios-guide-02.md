@@ -2,6 +2,8 @@
 
 * 點擊工作，可以看到工作內容
 
+# 步驟：
+
 ## Step 1
 
 在 `app/screens/homr_screen.rb` 加入

@@ -3,6 +3,7 @@
 * 生成第一個 redpotion 專案
 * 拉 API 繪成第一個主畫面
 
+# 步驟：
 
 ## Step 1: 新增第一個 Project
 

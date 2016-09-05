@@ -2,8 +2,9 @@
 
 ![](https://cdn.filepicker.io/api/file/ZbQas77vSHCOlghBDYBn)
 
+# 步驟：
 
-# Step 1:
+## Step 1:
 
 安裝 Gem
 
