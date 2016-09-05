@@ -30,5 +30,5 @@
 
 ## RedPotion 資源
 
-* [好用工具以及文檔](resouce.md)
+* [好用工具以及文檔](resource.md)
 * [如何找到更多開源示範教材](more-repo.md)
