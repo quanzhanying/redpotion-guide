@@ -1,3 +1,9 @@
+# 目標
+
+* 生成第一個 redpotion 專案
+* 拉 API 繪成第一個主畫面
+
+
 ## Step 1: 新增第一個 Project
 
 * potion new ios-job-list
