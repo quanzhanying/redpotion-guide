@@ -9,12 +9,21 @@
 
 * [RedPotion 安裝指南](install.md)
 
+## 開發步驟：
+
+* [rails-1](rails-guide-01.md)
+* [rails-2](rails-guide-02.md)
+* [ios-01](ios-guide-01.md)
+* [ios-02](ios-guide-02.md)
+* [ios-03](ios-guide-01.md)
+* [ios-04](ios-guide-01.md)
+
 ## ( JOB List )示範代碼地址：
 
 * iOS : https://github.com/xingrowth/ios-job-list
 * API : https://github.com/xingrowth/api-job-list
 
-## (JD Store )示範代碼地址：
+## (ArtStore )示範代碼地址：
 
 * iOS : https://github.com/growthschool/ios-artstore
 * API : https://github.com/growthschool/api-artstore
