@@ -9,7 +9,12 @@
 
 * [RedPotion 安裝指南](install.md)
 
-## 示範代碼地址：
+## ( JOB List )示範代碼地址：
 
 * iOS : https://github.com/xingrowth/ios-job-list
 * API : https://github.com/xingrowth/api-job-list
+
+## (JD Store )示範代碼地址：
+
+* iOS : https://github.com/growthschool/ios-artstore
+* API : https://github.com/growthschool/api-artstore
