@@ -27,3 +27,8 @@
 
 * iOS : https://github.com/growthschool/ios-artstore
 * API : https://github.com/growthschool/api-artstore
+
+## RedPotion 資源
+
+* [好用工具以及文檔](resouce.md)
+* [如何找到更多開源示範教材](more-repo.md)
