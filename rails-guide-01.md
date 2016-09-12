@@ -20,7 +20,6 @@ gem "active_model_serializers"
 end
 ```
 
-然後砍掉 `app/views/jobs/*.jbuilder`
 
 ## 檢驗是否有成功
 
