@@ -20,8 +20,8 @@
 
 ## ( JOB List )示範代碼地址：
 
-* iOS : https://github.com/xingrowth/ios-job-list
-* API : https://github.com/xingrowth/api-job-list
+* iOS : https://github.com/quanzhanying/ios-job-list
+* API : https://github.com/quanzhanying/api-job-list
 
 ## (ArtStore )示範代碼地址：
 
